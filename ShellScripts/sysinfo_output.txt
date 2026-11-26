@@ -1,0 +1,28 @@
+================================
+SYSTEM INFORMATION REPORT
+Name: Chaitanya
+Roll Number: 2601730362
+Date: Thu Nov 26 12:11:36 IST 2026
+================================
+
+CPU INFORMATION:
+Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz
+CPU Cores:
+2
+
+MEMORY INFORMATION:
+Total RAM: 3.90 GB
+Available RAM: 0.38 GB
+Used RAM: 3.52 GB
+
+TOP 3 CPU PROCESSES:
+
+ProcessName       Id         CPU
+-----------       --         ---
+ChatGPT Classic 1600 1933.390625
+chrome          9820 1019.078125
+SynTPEnh        6256    898.0625
+
+
+
+Report generated successfully.
