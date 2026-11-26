@@ -1,0 +1,86 @@
+===== HOME DIRECTORY =====
+total 15360
+drwxr-xr-x 1 Admin 197609       0 Nov 24 22:07 ./
+drwxr-xr-x 1 Admin 197609       0 Oct  9 17:42 ../
+drwxr-xr-x 1 Admin 197609       0 Nov 22 17:26 .arduinoIDE/
+-rw-r--r-- 1 Admin 197609   12392 Nov 26 10:33 .bash_history
+drwxr-xr-x 1 Admin 197609       0 Nov  5 09:59 .cache/
+drwxr-xr-x 1 Admin 197609       0 Nov 26 10:16 .codex/
+drwxr-xr-x 1 Admin 197609       0 Nov  1 19:52 .copilot/
+-rw-r--r-- 1 Admin 197609     220 Nov  9 12:28 .gitconfig
+drwxr-xr-x 1 Admin 197609       0 Oct 16  2025 .idlerc/
+drwxr-xr-x 1 Admin 197609       0 Sep 10 09:50 .ipython/
+-rw-r--r-- 1 Admin 197609      26 Nov  9 19:26 .lesshst
+drwxr-xr-x 1 Admin 197609       0 May  6  2026 .openjfx/
+-rw-r--r-- 1 Admin 197609    1049 Nov  9 14:07 .viminfo
+drwxr-xr-x 1 Admin 197609       0 Oct 29 11:14 .vscode/
+drwxr-xr-x 1 Admin 197609       0 Jul  1 16:55 .vscode-shared/
+drwxr-xr-x 1 Admin 197609       0 Dec  7  2019 3D Objects/
+-rw-r--r-- 1 Admin 197609     445 Sep  1 11:32 ATM_withdrawal_check.py
+drwxr-xr-x 1 Admin 197609       0 Dec  7  2019 AppData/
+lrwxrwxrwx 1 Admin 197609      30 Dec  7  2019 Application Data -> /c/Users/Admin/AppData/Roaming/
+drwxr-xr-x 1 Admin 197609       0 Dec  7  2019 Contacts/
+lrwxrwxrwx 1 Admin 197609      58 Dec  7  2019 Cookies -> /c/Users/Admin/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 Admin 197609       0 Nov 26 10:33 Desktop/
+drwxr-xr-x 1 Admin 197609       0 Nov 22 17:25 Documents/
+drwxr-xr-x 1 Admin 197609       0 Nov 24 22:24 Downloads/
+drwxr-xr-x 1 Admin 197609       0 Dec  7  2019 Favorites/
+drwxr-xr-x 1 Admin 197609       0 Nov 24 20:32 IntelGraphicsProfiles/
+drwxr-xr-x 1 Admin 197609       0 Dec  7  2019 Links/
+lrwxrwxrwx 1 Admin 197609      28 Dec  7  2019 Local Settings -> /c/Users/Admin/AppData/Local/
+drwxr-xr-x 1 Admin 197609       0 May  7  2026 MediaGet2/
+drwxr-xr-x 1 Admin 197609       0 Dec  7  2019 Music/
+lrwxrwxrwx 1 Admin 197609      24 Dec  7  2019 My Documents -> /c/Users/Admin/Documents/
+-rw-r--r-- 1 Admin 197609 9699328 Nov 24 20:31 NTUSER.DAT
+-rw-r--r-- 1 Admin 197609   65536 Nov 24 20:31 NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+-rw-r--r-- 1 Admin 197609  524288 Nov 24 20:31 NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 Admin 197609  524288 Nov  7 12:27 NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+lrwxrwxrwx 1 Admin 197609      66 Dec  7  2019 NetHood -> /c/Users/Admin/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+drwxr-xr-x 1 Admin 197609       0 Sep 10 09:57 New folder/
+drwxr-xr-x 1 Admin 197609       0 Aug 15  2025 OneDrive/
+drwxr-xr-x 1 Admin 197609       0 Sep 21 13:08 Pictures/
+lrwxrwxrwx 1 Admin 197609      66 Dec  7  2019 PrintHood -> /c/Users/Admin/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+-rw-r--r-- 1 Admin 197609      51 Nov  9 13:44 README.md
+lrwxrwxrwx 1 Admin 197609      55 Dec  7  2019 Recent -> /c/Users/Admin/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 Admin 197609       0 Dec  7  2019 Saved Games/
+drwxr-xr-x 1 Admin 197609       0 Dec 26  2025 Searches/
+lrwxrwxrwx 1 Admin 197609      55 Dec  7  2019 SendTo -> /c/Users/Admin/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 Admin 197609      59 Dec  7  2019 Start Menu -> /c/Users/Admin/AppData/Roaming/Microsoft/Windows/Start Menu/
+lrwxrwxrwx 1 Admin 197609      58 Dec  7  2019 Templates -> /c/Users/Admin/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 Admin 197609       0 Aug 22  2025 Videos/
+drwxr-xr-x 1 Admin 197609       0 Aug 10 19:58 WPS Cloud/
+drwxr-xr-x 1 Admin 197609       0 Jul 24 16:15 WPS Cloud Files/
+drwxr-xr-x 1 Admin 197609       0 Sep 10 10:03 basic python/
+-rw-r--r-- 1 Admin 197609       0 Sep  5 09:32 calc_many_project.py
+-rw-r--r-- 1 Admin 197609    1521 Sep  5 09:55 calculator_4.py
+-rw-r--r-- 1 Admin 197609     534 Sep  1 11:32 calculator_project.py
+-rw-r--r-- 1 Admin 197609   13769 Sep  1 11:32 chapter1input.py
+drwxr-xr-x 1 Admin 197609       0 Oct 31 17:38 cse103_backups/
+drwxr-xr-x 1 Admin 197609       0 Nov  9 12:31 cse103_lab/
+drwxr-xr-x 1 Admin 197609       0 Nov 26 10:27 developer-portfolio/
+-rw-r--r-- 1 Admin 197609     270 Sep  6 11:13 index.html
+-rw-r--r-- 1 Admin 197609    3117 Nov  5 18:05 ipynb file.ipynb
+-rw-r--r-- 1 Admin 197609      24 Nov  9 13:44 main.py
+-rw-r--r-- 1 Admin 197609   28777 Nov 20 20:52 my_resume_v1.pdf
+-rw-r--r-- 1 Admin 197609 1966080 Dec  7  2019 ntuser.dat.LOG1
+-rw-r--r-- 1 Admin 197609 2580480 Dec  7  2019 ntuser.dat.LOG2
+-rw-r--r-- 1 Admin 197609      20 Dec  7  2019 ntuser.ini
+-rw-r--r-- 1 Admin 197609     517 Sep  1 11:32 password_checker.py
+-rw-r--r-- 1 Admin 197609   17295 Sep  4 11:30 python.chapter2.py
+-rw-r--r-- 1 Admin 197609    1872 Sep  5 11:15 python.chapter3.py
+drwxr-xr-x 1 Admin 197609       0 Jan 17  2026 source/
+
+===== RUNNING PROCESSES =====
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1897       1    1897      13552  ?         197609 10:33:13 /usr/bin/mintty
+     1898    1897    1898      15368  pty0      197609 10:33:13 /usr/bin/bash
+     2087    1898    2086      15824  pty0      197609 10:51:47 /usr/bin/bash
+     2086    1898    2086      11540  pty0      197609 10:51:47 /usr/bin/ps
+
+===== DISK USAGE =====
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  223G  118G  106G  53% /
+
+===== MEMORY INFORMATION =====
+Total RAM: approximately 3.91 GiB
+Available RAM: approximately 0.26 GiB (PowerShell measurement)
