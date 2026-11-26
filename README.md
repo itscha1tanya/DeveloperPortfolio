@@ -105,5 +105,9 @@ This repository documents my journey as a beginner developer. It demonstrates my
 - [Portfolio Website](Screenshots/github_pages1.png)
 - [Final Commit](Screenshots/q4_final_commit.png)
 ---
+## Live Portfolio Website
+
+Visit my deployed portfolio:
+https://itscha1tanya.github.io/DeveloperPortfolio/
 
 *Created as part of my B.Tech CSE (AI/ML) coursework.*
