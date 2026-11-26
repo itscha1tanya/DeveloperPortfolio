@@ -76,8 +76,34 @@ This repository documents my journey as a beginner developer. It demonstrates my
 
 **GitHub:** https://github.com/itscha1tanya/DeveloperPortfolio
 
-**LinkedIn:**www.linkedin.com/in/chaitanya-verma-56b4ab404 
+**LinkedIn:**www.linkedin.com/in/chaitanya-verma-56b4ab404
+ 
+## Screenshots and Evidence
 
+### Q1 – Linux System Profile
+- [Linux Commands 1](Screenshots/linux_commands_1.png)
+- [Linux Commands 2](Screenshots/linux_commands_2.png)
+- [System Profile](Screenshots/linux_system_profile.png)
+- [Q1 Git Commit](Screenshots/q1_git_commit.png)
+
+### Q2 – Shell Scripting
+- [System Info Demo](Screenshots/sysinfo_demo.png)
+- [Backup Demo](Screenshots/backup_demo.png)
+- [Q2 Git Commit](Screenshots/q2_git_commit.png)
+
+### Q3 – Git and API Integration
+- [GitHub API](Screenshots/api_github.png)
+- [JSONPlaceholder API](Screenshots/api_jsonplaceholder.png)
+- [Git History](Screenshots/git_history.png)
+- [Q3 Git Commit](Screenshots/q3_git_commit.png)
+
+### Q4 – Professional Portfolio
+- [GitHub Profile](Screenshots/github_profile.png)
+- [GitHub README](Screenshots/github_readme.png)
+- [LinkedIn Profile](Screenshots/linkedin_profile.png)
+- [LinkedIn Project](Screenshots/linkedin_project.png)
+- [Portfolio Website](Screenshots/github_pages1.png)
+- [Final Commit](Screenshots/q4_final_commit.png)
 ---
 
 *Created as part of my B.Tech CSE (AI/ML) coursework.*
